@@ -1,0 +1,23 @@
+{
+  "name": "heroku1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vyaron/heroku1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyaron/heroku1/issues"
+  },
+  "homepage": "https://github.com/vyaron/heroku1",
+  "dependencies": {
+    "express": "^4.8.4",
+    "logfmt": "^1.1.2"
+  }
+}
